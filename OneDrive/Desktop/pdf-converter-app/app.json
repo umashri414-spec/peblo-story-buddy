@@ -5,9 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "android": {
-      "adaptiveIcon": {
-        "backgroundColor": "#1a1a2e"
-      },
+      
       "package": "com.pdfconverter.app",
       "permissions": [
         "READ_EXTERNAL_STORAGE",
